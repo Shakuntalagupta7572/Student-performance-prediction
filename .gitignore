@@ -1,0 +1,11 @@
+# Generated at runtime
+student_performance.csv
+student_performance_dashboard.png
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
